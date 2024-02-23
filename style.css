@@ -5,7 +5,7 @@ text-align: center;
 }
 #content{
   display: grid;
-  grid-template-columns: 25% 50% 25%;
+  grid-template-columns: 33.3% 33.3% 33.3%;
   max-width: 960px;
   margin: 0 auto;
 }
