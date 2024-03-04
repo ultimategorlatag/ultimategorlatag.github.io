@@ -49,10 +49,11 @@ body {
 }
 
 
-.navbar a:hover {
+.navbar a:hover,
+.navbar a.active {
   color: #00abf0;
-  
 }
+
   
 
 
