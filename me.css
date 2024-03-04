@@ -11,6 +11,7 @@
 
 body {
   background: #081b29
+  color: #ededed;
 }
 
 .header {
@@ -54,6 +55,11 @@ body {
   color: #00abf0;
 }
 
+.home {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
   
 
 
