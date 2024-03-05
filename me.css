@@ -64,6 +64,16 @@ body {
   background: red;
   max-width: 600px;
 }
-  
+
+.home-content h1 {
+font-size: 56px;
+  font-weight: 700;
+}
+
+.home-content h3 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #00abf0
+}
 
 
