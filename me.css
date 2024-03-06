@@ -92,10 +92,10 @@ font-size: 56px;
   display: inline-flex;
   width: 150px;
   height: 100%;
-  background: #00abf0
-  border: 2px solid #00abf0
+  background: #00abf0;
+  border: 2px solid #00abf0;
   border-radius: 8px;
-  font-size: 19px
+  font-size: 19px;
   color: #081b29;
   text-decoration: none;
 }
