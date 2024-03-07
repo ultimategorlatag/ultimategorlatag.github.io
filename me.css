@@ -109,7 +109,7 @@ font-size: 56px;
   letter-spacing: 1px;
 }
 
-.bnt-box a:nth-child(2) {
+.btn-box a:nth-child(2) {
   background: transparent;
   color: #00abf0;
 }
