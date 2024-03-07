@@ -57,7 +57,7 @@ body {
   height: 100vh;
   display: flex;
   align-items: center;
-  padding: 0 10%
+  padding: 0 10%;
 }
 
 .home-content {
@@ -74,11 +74,11 @@ font-size: 56px;
 .home-content h3 {
   font-size: 32px;
   font-weight: 700;
-  color: #00abf0
+  color: #00abf0;
 }
 
 .home-content p {
-  font-size: 16px
+  font-size: 16px;
   margin: 20px 0 40px;
 }
 
@@ -110,7 +110,7 @@ font-size: 56px;
 }
 
 .bnt-box a:nth-child(2) {
-  background: transparent
+  background: transparent;
   color: #00abf0;
 }
 
