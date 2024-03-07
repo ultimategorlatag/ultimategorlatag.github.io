@@ -107,6 +107,7 @@ font-size: 56px;
   text-decoration: none;
   font-weight: 600;
   letter-spacing: 1px;
+  z-index: 1;
 }
 
 .btn-box a:nth-child(2) {
