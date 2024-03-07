@@ -116,6 +116,10 @@ font-size: 56px;
   color: #00abf0;
 }
 
+.btn-box a:nth-child(2)::before {
+  background: #00abf0
+}
+
 
 .btn-box a::before {
   content: '';
@@ -124,7 +128,7 @@ font-size: 56px;
   left: 0;
   width: 0;
   height: 100%;
-  background: red;
+  background: #081b29;
   z-index: -1;
   transition: .5s;
 }
