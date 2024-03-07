@@ -121,9 +121,17 @@ font-size: 56px;
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 0;
   height: 100%;
   background: red;
   z-index: -1;
+  transition: .5s;
 }
+
+.btn-box a:hover::before{
+  width: 100%
+}
+
+
+
 
