@@ -142,8 +142,15 @@ font-size: 56px;
   transition: .5s;
 }
 
-.btn-box a:hover::before{
+.btn-box a:hover::before {
   width: 100%
+}
+
+.home-sci {
+  position: absolute;
+  bottom: 40px;
+  width: 170px;
+  background: red;
 }
 
 
