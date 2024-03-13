@@ -170,6 +170,7 @@ font-size: 56px;
   color: #00abf0;
   text-decoration: none;
   z-index: 1;
+  transition: .5s;
 }
 
 .home-sci a::before {
@@ -177,11 +178,14 @@ font-size: 56px;
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 0;
   height: 100%;
   background: red;
   z-index: -1;
 }
 
+.home-sci a:hover::before {
+  width: 100%
+}
 
 
