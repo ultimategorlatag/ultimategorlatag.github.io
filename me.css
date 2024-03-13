@@ -150,11 +150,14 @@ font-size: 56px;
   position: absolute;
   bottom: 40px;
   width: 170px;
-  background: red;
+  
+  display: flex;
+  justify-content: space-between;
   
 }
 
 .home-sci a {
+  position: relative;
   display: inline-flex;
   justify-content: center;
   align-items: center;
