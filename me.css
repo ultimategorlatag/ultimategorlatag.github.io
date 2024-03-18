@@ -33,6 +33,7 @@ body {
   color: #ededed;
   text-decoration: none;
   font-weight: 600;
+}
 
 .logo::before {
   content: '';
@@ -44,7 +45,7 @@ body {
   background: red;
 }
   
-}
+
 
 
 .navbar a {
